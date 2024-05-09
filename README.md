@@ -18,33 +18,20 @@ The purpose of this repository is to provide a structured way for interns to doc
 - **Details** : A brief description or summary of what the intern learned.
 - **Resources**: Any resources used by the intern, such as articles, tutorials, or books.
 
-## Contribution:
-As interns, you are encouraged to fork this repository to create your own copy. Here's how you can contribute:
+## Each entry should follow this format:
+- Date: As the file name.
+- Topic: The main subject or topic of the learning.
+- Details: A brief description or summary of what you learned.
+- Resources: Any resources used, such as articles, tutorials, or books.
 
-1) **Fork the Repository**: Click on the "Fork" button at the top right corner of this repository's page. This will create a copy of the repository in your GitHub account.
-2) **Add Your Directory**: In your forked repository, create a directory with your name. This directory will serve as your personal space to document your daily learnings.
-3) **Add Daily Learning Entries**: Inside your directory, add files for each day you want to log your learning. Name each file with the corresponding date (e.g., 2024-05-09.md for May 9, 2024).
-    ## Each entry should follow this format:
-
-    Date: The date of the learning.
-    Topic: The main subject or topic of the learning.
-    Details: A brief description or summary of what you learned.
-    Resources: Any resources used, such as articles, tutorials, or books.
-    For example:
-
-    ```
-    # 2024-05-09
-
-    ## Topic: Introduction to Python Programming
-
-    ### Details:
-    Today, I learned the basics of Python programming, including variables, data types, and basic operations. I also wrote my first Python script to calculate the factorial of a number.
-
-    ### Resources:
-    - Python Crash Course book
-    - Codecademy Python course
-
-    ```
-
-4) **Submit Pull Request**: Once you've added your daily learning entries, submit a pull request to the main repository. Trainers and mentors can then review your contributions and provide feedback.
+For example:
+- In a File name 09-05-24.md
+```
+## Topic: Introduction to Python Programming
+### Details:
+Basics of Python programming, including variables, data types, and basic operations.
+### Resources:
+- Python Crash Course book
+- Codecademy Python course
+```
 
